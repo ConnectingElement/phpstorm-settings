@@ -1,0 +1,12 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="87d3358f-6323-4370-b61a-b02501f3777c" name="Recruitment local" url="http://recruitment.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="21a7031c-2d1c-4547-a86e-b9c105a45bb2" name="CAPI Local" url="http://capi.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>

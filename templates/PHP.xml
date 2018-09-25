@@ -1,0 +1,7 @@
+<templateSet group="PHP">
+  <template name="docr" value="$_SERVER['DOCUMENT_ROOT']$END$" description="Add server document root" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
