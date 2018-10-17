@@ -78,7 +78,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>78</Count>
+          <Count>79</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
@@ -126,7 +126,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>685</Count>
+          <Count>686</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -134,7 +134,7 @@
           <IdeaActionID>Console.TableResult.DeleteRows</IdeaActionID>
           <ShortCut>'Ctrl+Y'</ShortCut>
           <Description>Delete Row</Description>
-          <Count>23</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Rows">
@@ -414,7 +414,7 @@
           <IdeaActionID>$Paste</IdeaActionID>
           <ShortCut>'Ctrl+V' or 'Shift+Insert'</ShortCut>
           <Description>Paste</Description>
-          <Count>78</Count>
+          <Count>79</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -494,7 +494,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>50</Count>
+          <Count>51</Count>
         </Item>
       </Statistic>
       <Statistic Action="Replace...">
@@ -622,7 +622,7 @@
           <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
           <ShortCut>'Ctrl+Enter'</ShortCut>
           <Description>Submit</Description>
-          <Count>91</Count>
+          <Count>92</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
