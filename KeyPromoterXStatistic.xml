@@ -126,7 +126,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>699</Count>
+          <Count>702</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -473,14 +473,6 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Reload Page">
-        <Item>
-          <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
-          <ShortCut>'Ctrl+F5'</ShortCut>
-          <Description>Reload Page</Description>
-          <Count>115</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Remove from Project View">
         <Item>
           <IdeaActionID>$Delete</IdeaActionID>
@@ -703,6 +695,16 @@
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
           <Count>9</Count>
+        </Item>
+      </Statistic>
+    </option>
+    <option name="suppressed">
+      <Statistic Action="Reload Page">
+        <Item>
+          <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Reload Page</Description>
+          <Count>116</Count>
         </Item>
       </Statistic>
     </option>
