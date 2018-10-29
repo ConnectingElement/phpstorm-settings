@@ -230,7 +230,7 @@
           <IdeaActionID>IntroduceField</IdeaActionID>
           <ShortCut>'Ctrl+Alt+F'</ShortCut>
           <Description>Field...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="File Path">
@@ -366,7 +366,7 @@
           <IdeaActionID>ModifyObject</IdeaActionID>
           <ShortCut>'Ctrl+F6'</ShortCut>
           <Description>Modify Column...</Description>
-          <Count>14</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Modify Foreign Key...">
