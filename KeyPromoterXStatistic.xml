@@ -182,7 +182,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Drop</Description>
-          <Count>8</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit">
@@ -366,7 +366,7 @@
           <IdeaActionID>ModifyObject</IdeaActionID>
           <ShortCut>'Ctrl+F6'</ShortCut>
           <Description>Modify Column...</Description>
-          <Count>19</Count>
+          <Count>20</Count>
         </Item>
       </Statistic>
       <Statistic Action="Modify Foreign Key...">
@@ -590,7 +590,7 @@
           <IdeaActionID>Console.TableResult.SetNull</IdeaActionID>
           <ShortCut>'Ctrl+Alt+N'</ShortCut>
           <Description>Set NULL</Description>
-          <Count>23</Count>
+          <Count>26</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
@@ -638,15 +638,7 @@
           <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
           <ShortCut>'Ctrl+Enter'</ShortCut>
           <Description>Submit</Description>
-          <Count>193</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Synchronize">
-        <Item>
-          <IdeaActionID>DatabaseView.SynchronizeAction</IdeaActionID>
-          <ShortCut>'Ctrl+Alt+Y'</ShortCut>
-          <Description>Synchronize</Description>
-          <Count>76</Count>
+          <Count>194</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
@@ -729,6 +721,14 @@
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Reload Page</Description>
           <Count>116</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Synchronize">
+        <Item>
+          <IdeaActionID>DatabaseView.SynchronizeAction</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Y'</ShortCut>
+          <Description>Synchronize</Description>
+          <Count>82</Count>
         </Item>
       </Statistic>
     </option>
