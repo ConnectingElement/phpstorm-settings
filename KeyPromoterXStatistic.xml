@@ -166,7 +166,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
-          <Count>80</Count>
+          <Count>81</Count>
         </Item>
       </Statistic>
       <Statistic Action="Directory Path">
@@ -598,7 +598,7 @@
           <IdeaActionID>SavaAs</IdeaActionID>
           <ShortCut>'Ctrl+Shift+S'</ShortCut>
           <Description>Save As...</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Set NULL">
@@ -654,7 +654,7 @@
           <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
           <ShortCut>'Ctrl+Enter'</ShortCut>
           <Description>Submit</Description>
-          <Count>224</Count>
+          <Count>226</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
