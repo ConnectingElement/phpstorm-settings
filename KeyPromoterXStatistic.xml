@@ -662,7 +662,7 @@
           <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
           <ShortCut>'Ctrl+Enter'</ShortCut>
           <Description>Submit</Description>
-          <Count>258</Count>
+          <Count>260</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
