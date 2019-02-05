@@ -142,7 +142,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1178</Count>
+          <Count>1182</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -505,6 +505,14 @@
           <Count>7</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Referenced Data">
+        <Item>
+          <IdeaActionID>Console.TableResult.NavigateForeignAction</IdeaActionID>
+          <ShortCut>'Ctrl+B'</ShortCut>
+          <Description>Referenced Data</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Reformat Code">
         <Item>
           <IdeaActionID>ReformatCode</IdeaActionID>
@@ -662,7 +670,7 @@
           <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
           <ShortCut>'Ctrl+Enter'</ShortCut>
           <Description>Submit</Description>
-          <Count>265</Count>
+          <Count>267</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
