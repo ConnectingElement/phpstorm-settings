@@ -158,7 +158,7 @@
           <IdeaActionID>Console.TableResult.DeleteRows</IdeaActionID>
           <ShortCut>'Ctrl+Y'</ShortCut>
           <Description>Delete Row</Description>
-          <Count>74</Count>
+          <Count>76</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Rows">
@@ -678,7 +678,7 @@
           <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
           <ShortCut>'Ctrl+Enter'</ShortCut>
           <Description>Submit</Description>
-          <Count>271</Count>
+          <Count>273</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
