@@ -86,7 +86,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>139</Count>
+          <Count>141</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
@@ -678,7 +678,7 @@
           <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
           <ShortCut>'Ctrl+Enter'</ShortCut>
           <Description>Submit</Description>
-          <Count>275</Count>
+          <Count>276</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
