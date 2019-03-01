@@ -7,6 +7,9 @@
       <webServer id="21a7031c-2d1c-4547-a86e-b9c105a45bb2" name="CAPI Local" url="http://capi.test">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="29645d25-9436-4fd4-9937-26e48ddcdfac" name="Gatsby localhost 8000" url="http://localhost:8000">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
