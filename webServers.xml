@@ -10,6 +10,9 @@
       <webServer id="29645d25-9436-4fd4-9937-26e48ddcdfac" name="Gatsby localhost 8000" url="http://localhost:8000">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="12443870-b6fc-464e-9f9e-58fd7937776d" name="dndhexadmin" url="http://dndhexserver.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
