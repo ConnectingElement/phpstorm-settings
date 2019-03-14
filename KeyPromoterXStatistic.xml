@@ -38,7 +38,7 @@
           <IdeaActionID>Console.TableResult.CloneRow</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Clone Row</Description>
-          <Count>5</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -734,7 +734,7 @@
           <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
           <ShortCut>'Ctrl+Enter'</ShortCut>
           <Description>Submit</Description>
-          <Count>287</Count>
+          <Count>288</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
