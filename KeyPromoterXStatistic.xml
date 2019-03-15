@@ -38,7 +38,7 @@
           <IdeaActionID>Console.TableResult.CloneRow</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Clone Row</Description>
-          <Count>7</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -190,7 +190,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
-          <Count>98</Count>
+          <Count>102</Count>
         </Item>
       </Statistic>
       <Statistic Action="Directory Path">
@@ -734,7 +734,7 @@
           <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
           <ShortCut>'Ctrl+Enter'</ShortCut>
           <Description>Submit</Description>
-          <Count>289</Count>
+          <Count>294</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
