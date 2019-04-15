@@ -18,8 +18,8 @@
     <mask>*.json</mask>
     <mask>*.md</mask>
     <mask>lang.php</mask>
-    <mask>*.htm</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
+    <mask>*.htm</mask>
   </component>
 </application>
