@@ -1,0 +1,7 @@
+<templateSet group="Zen HTML">
+  <template name="meta" value="&lt;meta property=&quot;$property$&quot; content=&quot;$content$&quot;&gt;$END$" description="&lt;meta&gt;" toReformat="true" toShortenFQNames="true">
+    <variable name="property" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+</templateSet>
