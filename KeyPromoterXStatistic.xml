@@ -254,7 +254,7 @@
           <IdeaActionID>Console.TableResult.EditValue</IdeaActionID>
           <ShortCut>'F2' or 'Enter' or 'Alt+Enter'</ShortCut>
           <Description>Edit</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit Maximized">
@@ -262,7 +262,7 @@
           <IdeaActionID>Console.TableResult.EditValueMaximized</IdeaActionID>
           <ShortCut>'Shift+Enter' or 'Alt+Shift+Enter'</ShortCut>
           <Description>Edit Maximized</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude">
@@ -782,7 +782,7 @@
           <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
           <ShortCut>'Ctrl+Enter'</ShortCut>
           <Description>Submit</Description>
-          <Count>316</Count>
+          <Count>318</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
