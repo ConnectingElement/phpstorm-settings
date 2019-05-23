@@ -13,6 +13,9 @@
       <webServer id="12443870-b6fc-464e-9f9e-58fd7937776d" name="dndhexadmin" url="http://dndhexserver.test">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="7fd13ec4-5fa8-4552-a78e-5db238a8db25" name="APIs" url="http://api.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
