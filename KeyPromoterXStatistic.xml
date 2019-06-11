@@ -694,7 +694,7 @@
           <IdeaActionID>DatabaseView.SqlGenerator</IdeaActionID>
           <ShortCut>'Ctrl+Alt+G'</ShortCut>
           <Description>SQL Generator...</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Safe Delete...">
