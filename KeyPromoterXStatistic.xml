@@ -494,7 +494,7 @@
           <IdeaActionID>NewElement</IdeaActionID>
           <ShortCut>'Alt+Insert'</ShortCut>
           <Description>New...</Description>
-          <Count>15</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Open Console">
@@ -518,7 +518,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>10</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Directory">
