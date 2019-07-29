@@ -174,7 +174,7 @@
           <IdeaActionID>DatabaseView.PropertiesAction</IdeaActionID>
           <ShortCut>'Shift+Enter'</ShortCut>
           <Description>Data Source Properties</Description>
-          <Count>29</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
       <Statistic Action="Database Tools...">
@@ -310,7 +310,7 @@
           <IdeaActionID>Console.Jdbc.Execute</IdeaActionID>
           <ShortCut>'Ctrl+Enter'</ShortCut>
           <Description>Execute</Description>
-          <Count>102</Count>
+          <Count>106</Count>
         </Item>
       </Statistic>
       <Statistic Action="Expand">
@@ -438,7 +438,7 @@
           <IdeaActionID>Jdbc.OpenConsole.Any</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Jump to Console...</Description>
-          <Count>53</Count>
+          <Count>54</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Editor">
@@ -838,7 +838,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>22</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
