@@ -318,7 +318,7 @@
           <IdeaActionID>Console.Jdbc.Execute</IdeaActionID>
           <ShortCut>'Ctrl+Enter'</ShortCut>
           <Description>Execute</Description>
-          <Count>110</Count>
+          <Count>115</Count>
         </Item>
       </Statistic>
       <Statistic Action="Expand">
@@ -446,7 +446,7 @@
           <IdeaActionID>Jdbc.OpenConsole.Any</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Jump to Console...</Description>
-          <Count>55</Count>
+          <Count>56</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Editor">
@@ -846,7 +846,7 @@
           <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
           <ShortCut>'Ctrl+Enter'</ShortCut>
           <Description>Submit</Description>
-          <Count>335</Count>
+          <Count>336</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
