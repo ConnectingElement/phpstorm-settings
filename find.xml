@@ -20,5 +20,6 @@
     <mask>*.php</mask>
     <mask>*.htm</mask>
     <mask>*.yaml</mask>
+    <mask>!lang.php</mask>
   </component>
 </application>
