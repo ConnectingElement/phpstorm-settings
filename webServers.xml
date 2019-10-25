@@ -16,6 +16,9 @@
       <webServer id="7fd13ec4-5fa8-4552-a78e-5db238a8db25" name="APIs" url="http://api.test">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="2f8d104f-17d2-43d1-9ae1-e814d945fb9a" name="EI Premier Club" url="http://ei.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
