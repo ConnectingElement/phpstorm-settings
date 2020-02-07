@@ -19,7 +19,7 @@
     <mask>!lang.php</mask>
     <mask>*.css</mask>
     <mask>*.htm</mask>
-    <mask>*.js</mask>
     <mask>*.php</mask>
+    <mask>*.js</mask>
   </component>
 </application>
