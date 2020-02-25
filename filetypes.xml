@@ -6,6 +6,7 @@
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <mapping ext="htm" type="Twig" />
       <mapping ext="kmz" type="XML" />
+      <mapping ext="kml" type="XML" />
       <removed_mapping ext="htm" approved="true" type="HTML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
