@@ -1,3 +1,6 @@
 <application>
   <component name="DaemonCodeAnalyzerSettings" profile="PHP Only" />
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="13" />
+  </component>
 </application>
