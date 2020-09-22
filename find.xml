@@ -22,7 +22,7 @@
     <mask>*.less</mask>
     <mask>*.htm</mask>
     <mask>*.php</mask>
-    <mask>*.js</mask>
     <mask>*.blade.php</mask>
+    <mask>*.js</mask>
   </component>
 </application>
