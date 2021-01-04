@@ -10,18 +10,12 @@
           <option name="url" value="https://github.com/highrisedigital/wpbroadbean.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://aaa-dev.git.beanstalkapp.com/huzzah-recruit.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="W:\websites\vhosts" />
-  </component>
-  <component name="Vcs.Log.App.Settings">
-    <option name="COLUMN_ORDER">
-      <list>
-        <option value="0" />
-        <option value="1" />
-        <option value="2" />
-        <option value="3" />
-      </list>
-    </option>
+    <option name="cloneParentDir" value="D:\Work\Code\vhosts" />
   </component>
 </application>
