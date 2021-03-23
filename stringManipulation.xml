@@ -29,6 +29,33 @@
             </list>
           </option>
         </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1616496323710" />
+          <option name="separators">
+            <list>
+              <option value=" " />
+              <option value="" />
+            </list>
+          </option>
+        </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1616496521686" />
+          <option name="separators">
+            <list>
+              <option value=" " />
+              <option value="" />
+            </list>
+          </option>
+        </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1616496563305" />
+          <option name="separators">
+            <list>
+              <option value=" " />
+              <option value="" />
+            </list>
+          </option>
+        </ColumnAlignerModel>
       </list>
     </option>
   </component>
