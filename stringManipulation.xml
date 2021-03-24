@@ -56,6 +56,56 @@
             </list>
           </option>
         </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1616588309460" />
+          <option name="separators">
+            <list>
+              <option value="$" />
+              <option value="" />
+            </list>
+          </option>
+          <option name="spaceAfterSeparator" value="false" />
+        </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1616588346432" />
+          <option name="separators">
+            <list>
+              <option value="$" />
+              <option value="" />
+            </list>
+          </option>
+          <option name="spaceAfterSeparator" value="false" />
+        </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1616588532444" />
+          <option name="separators">
+            <list>
+              <option value=" " />
+              <option value="" />
+            </list>
+          </option>
+          <option name="spaceAfterSeparator" value="false" />
+        </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1616588564870" />
+          <option name="separators">
+            <list>
+              <option value=" " />
+              <option value="" />
+            </list>
+          </option>
+          <option name="spaceAfterSeparator" value="false" />
+        </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1616588643352" />
+          <option name="separators">
+            <list>
+              <option value=" " />
+              <option value="" />
+            </list>
+          </option>
+          <option name="spaceAfterSeparator" value="false" />
+        </ColumnAlignerModel>
       </list>
     </option>
   </component>
