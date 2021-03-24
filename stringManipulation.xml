@@ -106,6 +106,26 @@
           </option>
           <option name="spaceAfterSeparator" value="false" />
         </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1616593477989" />
+          <option name="separators">
+            <list>
+              <option value="&lt;td&gt;" />
+              <option value="" />
+            </list>
+          </option>
+          <option name="spaceAfterSeparator" value="false" />
+        </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1616593737365" />
+          <option name="separators">
+            <list>
+              <option value="&lt;td&gt;" />
+              <option value="" />
+            </list>
+          </option>
+          <option name="spaceAfterSeparator" value="false" />
+        </ColumnAlignerModel>
       </list>
     </option>
   </component>
