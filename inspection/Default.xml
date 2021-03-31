@@ -366,7 +366,6 @@
     <option name="m_maxLength" value="50" />
   </inspection_tool>
   <inspection_tool class="PhpClosureCanBeConvertedToShortArrowFunctionInspection" enabled="false" level="INFORMATION" enabled_by_default="false" />
-  <inspection_tool class="PhpConstantNamingConventionInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="PhpDivisionByZeroInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="PhpDocFieldTypeMismatchInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="PhpDuplicateSwitchCaseBodyInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
