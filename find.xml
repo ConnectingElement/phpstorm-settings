@@ -22,7 +22,7 @@
     <mask>*.blade.php</mask>
     <mask>*.css</mask>
     <mask>*.js</mask>
-    <mask>*.php</mask>
     <mask>*.yaml</mask>
+    <mask>*.php</mask>
   </component>
 </application>
