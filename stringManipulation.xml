@@ -126,6 +126,16 @@
           </option>
           <option name="spaceAfterSeparator" value="false" />
         </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1624869204766" />
+          <option name="separators">
+            <list>
+              <option value="    " />
+              <option value="" />
+            </list>
+          </option>
+          <option name="spaceAfterSeparator" value="false" />
+        </ColumnAlignerModel>
       </list>
     </option>
   </component>
